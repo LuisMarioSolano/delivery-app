@@ -8,6 +8,7 @@
         }
     }
     &__contenido {
+        border-radius: 2rem;
         background-color: v.$primario;
         padding: v.$separacion;
         display: flex;
